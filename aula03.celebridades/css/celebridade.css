@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(32, 34, 36);
+    color: goldenrod;
+}
+
+h1{
+    color: goldenrod;
+    font-family: fantasy;
+    font-size: 300%;
+}
+
+h2{
+    color: violet;
+}
+
+li{
+    color: royalblue;
+    font-family: cursive;
+}
+
+img{
+    height: 300px ;
+    width: 400px;
+    box-shadow: 5px 5px 10px aquamarine;
+    border-radius: 20px;
+}
