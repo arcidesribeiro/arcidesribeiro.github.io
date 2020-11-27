@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    color: brown;
+}
+img {
+    width: 200px;
+    display: block;
+    transition: all 0.3s;
+    border: 2px solid white;
+}
+img:hover {
+    width: 250px;
+    box-shadow: 0 0 20px black;
+}
